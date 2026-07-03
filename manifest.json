@@ -1,0 +1,22 @@
+{
+  "name": "OMNI TV",
+  "short_name": "OMNI TV",
+  "description": "Live TV Streaming App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0E21",
+  "theme_color": "#FF2D55",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/FF2D55/ffffff?text=TV",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/FF2D55/ffffff?text=TV",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
